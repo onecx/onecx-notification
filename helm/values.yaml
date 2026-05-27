@@ -1,0 +1,15 @@
+deployment:
+  svc: true 
+  bff: true
+  ui: true
+
+product:
+  info:
+    data:
+      description: "Collect and dispatch notifications"
+      imageUrl: ""
+      iconName: bell
+      displayName: "OneCX Notification"
+      basePath: /notification
+      provider: "OneCX Team"
+      classifications: [ "Administration" ]
