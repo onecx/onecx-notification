@@ -1,0 +1,15 @@
+dependencies:
+- name: helm-product
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.4.0
+- name: onecx-notification-svc
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.28
+- name: onecx-notification-bff
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.23
+- name: onecx-notification-ui
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.1.0-rc.1
+digest: sha256:0f04690d66a4c3bd8772122d6f7b9b5f3a4e632545fcd482d6e58a9a94b06b63
+generated: "2026-05-27T11:18:34.639213124+02:00"
