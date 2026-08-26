@@ -10,6 +10,6 @@ dependencies:
   version: 0.0.0-rc.40
 - name: onecx-notification-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.1.0-rc.17
-digest: sha256:9c0e8202f290dd055bc7bccb4f350b9dcdebbe6b94717acc20d903808c3939c2
-generated: "2026-08-25T13:16:53.326838099Z"
+  version: 0.1.0-rc.18
+digest: sha256:956b5ff1a95588f297768bef55a957c5414e0f8dd95db68cb75d6ef11dbd791d
+generated: "2026-08-26T08:12:56.256418876Z"
