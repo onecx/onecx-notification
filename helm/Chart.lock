@@ -7,9 +7,9 @@ dependencies:
   version: 0.0.0-rc.48
 - name: onecx-notification-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.45
+  version: 0.0.0-rc.47
 - name: onecx-notification-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.1.0-rc.27
-digest: sha256:064dd38160d9f7e1d9b19d6c3bbfdae40dfd5ee2029e4c906f3486ce0fbb840b
-generated: "2026-10-13T12:48:10.430212359Z"
+digest: sha256:d9b975aca69e7c5304e026a3f6103a24a2319457d83d8f71a28e6239ace73f87
+generated: "2026-10-26T15:53:54.883586691Z"
