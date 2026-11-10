@@ -4,12 +4,12 @@ dependencies:
   version: 0.4.0
 - name: onecx-notification-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.53
+  version: 0.0.0-rc.54
 - name: onecx-notification-bff
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.53
 - name: onecx-notification-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.1.0-rc.30
-digest: sha256:92bf04ef26f634dab0735bcef6837fc9ad72eedb074036b9ae3317c93132b19e
-generated: "2026-11-10T13:30:08.347707845Z"
+digest: sha256:02b5a938655d5857b51f08f6264d99f3b53f5b341c6c2cc21d4f92145696f38a
+generated: "2026-11-10T13:35:05.354798501Z"
